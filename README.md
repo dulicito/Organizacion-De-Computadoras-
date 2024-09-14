@@ -2,15 +2,15 @@
  > consejo: si hubiera un tema importante con respecto a que darle mas prioridad, sin duda seria assembly (el cual ven en arquitectura de computadoras) los demas temas, considero que son para complementar y comprender conceptos basicos de las materia  
 
 
-los parciales se dividen en 2 fechas:
-* Primer modulo: Parcial Assembly (c/ un recuperatorio)
-* Segundo Modulo: Parcial Winmips (c/ un recuperatorio)
+los parciales se dividen en 2 fechas (o al menos al momento de la rendi 
+* Primer modulo: 1er parcial (c/ un recuperatorio)
+* Segundo Modulo: 2do parcial (c/ un recuperatorio)
 
-tambien tienen un Parcial recuperatorio, para acceder hay que tener un modulo aprobado 
+tambien tienen un parcial global por si desaprobaron un modulo o ambos
 
 en el siguiente enlace, encontraras material con respecto a la cursada:
 
-[MATERIAL CONCEPTOS DE ALGORITMOS, DATOS Y PROGRAMAS](https://drive.google.com/drive/folders/1_nw1hwXOx8gOv5GTngrEAM-XOWI4JvV7?usp=sharing)
+[MATERIAL ORGANIZACION DE COMPUTADORAS](https://drive.google.com/drive/folders/1AjjNZd7eodmIUXTtmeaqDT7n_tccW6dj?usp=sharing)
 
 [CANAL DE YOUTUBE CON VIDEOS](https://www.youtube.com/@dulicito)
 
